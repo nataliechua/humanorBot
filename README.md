@@ -44,7 +44,7 @@ And the following features which refer to the count of bids placed in each merch
 
 ## Feature Importance
 
-A quick graph of feature importance gave me more insight into my features and let me know which of them was used in my model the most. After looking at the graphs for each of the models I tried out, I found that mean_delay was frequently reflected as the most important feature. Hence, time was a feature that I could have potentially engineered more to generate more useful insights.
+A quick graph of feature importance gave me more insight into my features and let me know which of them was used in my model the most. After looking at the graphs for each of the models I tried out, I found that mean_delay was frequently reflected as the most important feature. Hence, delay was a feature that I could have potentially engineered more to generate more useful insights, such as by finding the delay between the last bid and the end of the auction, or the mean time delay in between bids.
 
 This was my first time entering a prediction competition on Kaggle and it proved to be a enjoyable and eye-opening experience! It certainly marks the start of future forays into the boundless world of machine learning and data science, and I look forward to exploring more techniques which can help me enhance my models. 
 
