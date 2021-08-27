@@ -2,7 +2,7 @@
 
 This is my entry for the 2015 Kaggle contest held by Facebook, in which participants are challenged to build a machine learning model to predict if an online bid was made by a human or a robot. My model achieved an AUC of 0.89609 on the private leaderboard.
 
-I used ensemble learning with CatBoost and XGBoost, and used the mean of the predictions from these two models for my final prediction. 
+I used ensemble learning with CatBoost and Random Forest, and used the mean of the predictions from these two models for my final prediction. 
 
 Definitely the biggest challenge of the competition was the lack of features, due to how a lot of information such as bidder_id, payment account, address, time and URL were encrypted. Feature engineering was thus crucial to this problem and creativity was needed to maximise the usage of the limited features available.
 
