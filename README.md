@@ -1,6 +1,6 @@
 # Facebook Recruiting IV: Human or Robot?
 
-This is my entry for the 2015 Kaggle contest held by Facebook, in which participants are challenged to build a machine learning model to predict if an online bid was made by a human or a robot. My model achieved an AUC of 0.8998 on the private leaderboard.
+This is my entry for the 2015 Kaggle contest held by Facebook, in which participants are challenged to build a machine learning model to predict if an online bid was made by a human or a robot. My model achieved an AUC of 0.89609 on the private leaderboard.
 
 I used ensemble learning with CatBoost and XGBoost, and used the mean of the predictions from these two models for my final prediction. 
 
