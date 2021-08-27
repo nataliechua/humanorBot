@@ -1,4 +1,4 @@
-# # Facebook Recruiting IV: Human or Robot?
+# Facebook Recruiting IV: Human or Robot?
 
 This is my entry for the 2015 Kaggle contest held by Facebook, in which participants are challenged to build a machine learning model to predict if an online bid was made by a human or a robot. My model achieved an AUC of 0.8998 on the private leaderboard.
 
